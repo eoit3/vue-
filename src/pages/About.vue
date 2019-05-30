@@ -13,6 +13,7 @@
       for (var i = 0; i <= 100; i++) {
         
       }
+      var got = []
       console.timeEnd()
     }
   }
